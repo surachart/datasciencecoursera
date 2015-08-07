@@ -1,2 +1,2 @@
 # datasciencecoursera
-For jhudatascience: Store coding/practice and etc.
+For jhudatascience: Storing codes/practices and etc.
